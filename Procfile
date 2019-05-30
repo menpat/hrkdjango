@@ -1,0 +1,1 @@
+web: gunicorn dj002_media.wsgi --log-file -
